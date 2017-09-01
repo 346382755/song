@@ -65,6 +65,7 @@
   ],
   "shareurl": "https://346382755.github.io/song/web/index.html",
   "songurl": "http://122.11.47.94:3000/index.php",
+  "andoridsongurl": "http://122.11.47.94:3000/android.php",
   "version": {
     "server": "1.0",
     "ios": "1.0",
