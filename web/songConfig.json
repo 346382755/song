@@ -2,64 +2,64 @@
   "dev": [
     {
       "id": "1",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10099"
     },
     {
       "id": "2",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10098"
     },
     {
       "id": "3",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10097"
     },
     {
       "id": "4",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10096"
     },
     {
       "id": "5",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10095"
     },
     {
       "id": "6",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "20001"
     }
   ],
   "servers": [
     {
       "id": "1",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10099"
     },
     {
       "id": "2",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10098"
     },
     {
       "id": "3",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10097"
     },
     {
       "id": "4",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10096"
     },
     {
       "id": "5",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "10095"
     },
     {
       "id": "6",
-      "ip": "http://higeba.ztgame.com",
+      "ip": "higeba.ztgame.com",
       "port": "20001"
     }
   ],
