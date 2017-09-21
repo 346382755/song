@@ -2,70 +2,70 @@
   "dev": [
     {
       "id": "1",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10099"
     },
     {
       "id": "2",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10098"
     },
     {
       "id": "3",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10097"
     },
     {
       "id": "4",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10096"
     },
     {
       "id": "5",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10095"
     },
     {
       "id": "6",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "20001"
     }
   ],
   "servers": [
     {
       "id": "1",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10099"
     },
     {
       "id": "2",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10098"
     },
     {
       "id": "3",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10097"
     },
     {
       "id": "4",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10096"
     },
     {
       "id": "5",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "10095"
     },
     {
       "id": "6",
-      "ip": "122.11.47.94",
+      "ip": "http://higeba.ztgame.com",
       "port": "20001"
     }
   ],
   "shareurl": "https://346382755.github.io/song/web/index.html",
-  "songurl": "http://122.11.47.94:3000/index.php",
-  "andoridsongurl": "http://122.11.47.94:3000/android.php",
+  "songurl": "http://higeba.ztgame.com:3000/index.php",
+  "andoridsongurl": "http://higeba.ztgame.com:3000/android.php",
   "version": {
     "server": "1.0",
     "ios": "1.0",
